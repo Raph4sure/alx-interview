@@ -21,7 +21,7 @@ Conditional statements to check the status of adjacent cells.
 Resources:
 Python Official Documentation:
 
-Nested Lists: Understanding how to work with lists within lists in Python.
+Nested Lists: Understanding how to **work** with lists within lists in Python.
 GeeksforGeeks Articles:
 
 Python Multi-dimensional Arrays: A guide to working with 2D arrays in Python effectively.
